@@ -1,0 +1,3 @@
+[submodule "django-multibd"]
+	path = django-multibd
+	url = git@github.com:romulojales/django-multibd.git
